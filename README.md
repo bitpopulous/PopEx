@@ -1,5 +1,6 @@
-# PopEx
-PopEx API
+# Rest API
+Trade AI
+
 ## Generic API information
 
   
