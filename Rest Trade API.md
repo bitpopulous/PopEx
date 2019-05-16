@@ -1,5 +1,5 @@
 # Rest API
-Trade AI
+Trade API
 
 ## Generic API information
 
