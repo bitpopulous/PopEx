@@ -1,5 +1,5 @@
-# Rest API
-Trade API
+# Rest Trade API
+
 
 ## Generic API information
 
